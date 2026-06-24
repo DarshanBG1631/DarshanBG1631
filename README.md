@@ -34,10 +34,10 @@
 
 ### Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=java" /> </p>
 
+Java
+Spring Boot (Learning)
 ### Tools & Platforms
 
 <p>
